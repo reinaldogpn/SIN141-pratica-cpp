@@ -1,6 +1,6 @@
 # pratica-cpp
-Repositório destinado a implementações de exercícios práticos em C++.
+This repo includes some exercises in C++ for college.
 
 # Exercício 1:
 
-Exercício relacionado a herança, poliformismo e classes abstratas em C++.
+Exercise based on class inheritance, polyphormism and abstract classes.
