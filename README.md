@@ -3,4 +3,4 @@ This repo includes some exercises in C++ for college.
 
 # Exercício 1:
 
-Exercise based on class inheritance, polyphormism and abstract classes.
+Exercise based on class inheritance, polymorphism and abstract classes.
