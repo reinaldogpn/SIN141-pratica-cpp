@@ -1,6 +1,3 @@
 # pratica-cpp
-This repo includes some exercises in C++ for college.
 
-# #01
-
-Exercise based on class inheritance, polymorphism and abstract classes.
+Exercícios práticos em C++ da disciplina de SIN141 (Computação Orientada a Objetos) da Universidade Federal de Viçosa (UFV/CRP).
