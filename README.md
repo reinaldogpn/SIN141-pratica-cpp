@@ -6,10 +6,8 @@ Exercícios práticos em C++ da disciplina de SIN141 (Computação Orientada a O
 
 Recursos utilizados durante a disciplina:
 
-## codeblocks
+* codeblocks
+  - Configurações e algumas definições pessoais que utilizei no Codeblocks para desenvolvimento durante a disciplina.
 
-Configurações e algumas definições pessoais que utilizei no Codeblocks para desenvolvimento durante a disciplina.
-
-## makefile
-
-Modelos de arquivos Makefile que aprendi a criar e utilizei durante a disciplina.
+* makefile
+  - Modelos de arquivos Makefile que aprendi a criar e utilizei durante a disciplina.
